@@ -1,0 +1,26 @@
+/* tag or element selector section */
+h1 {
+    color: green;
+    font-style: italic;
+    font-size: 16;
+}
+button:hover {
+    color: darkblue;
+}
+
+/** class attr selector section */
+.note {
+    color: gray;
+    padding-top: 5px;
+    font-size: 15px;
+}
+
+.error {
+    color: red;
+    background-color: lightgray;
+    font-size: 20px;
+    border-style: solid;
+    border-radius: 5px;
+    padding: 10px;
+    margin-bottom: 10px;
+}
