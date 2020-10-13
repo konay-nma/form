@@ -4,7 +4,7 @@
       "id": 1,
       "content": "HTML is easy",
       "date": "2019-05-30T17:30:31.098Z",
-      "important": true
+      "important": false
     },
     {
       "id": 2,
@@ -57,7 +57,7 @@
     {
       "content": "This is new Note",
       "date": "Thu Oct 01 2020 21:19:12 GMT+0630 (Myanmar Time)",
-      "important": true,
+      "important": false,
       "id": 10
     }
   ]
